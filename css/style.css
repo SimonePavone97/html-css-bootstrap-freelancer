@@ -5,3 +5,21 @@
 .height{
     height: 1px;
 }
+
+.m-top{
+    margin-top: 100px;
+}
+
+.sfondo-grigio{
+    background-color: #3A546D;
+}
+
+.sfondo-grigio-scuro{
+    background-color: #2C3E50;
+}
+
+.fa-brands{
+    border: 1px solid white;
+    border-radius: 50%;
+    padding: 5px;
+}
